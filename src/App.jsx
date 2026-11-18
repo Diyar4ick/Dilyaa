@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 
-const NAME = 'Zulya'
+const NAME = 'Dilya'
 const GLYPHS = ['♥', '♥', '✦', '❄', '♡']
 
 /* ---------- Снегопад на canvas (3 слоя глубины) ---------- */
